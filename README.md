@@ -2,10 +2,10 @@
 
 > Make sure mongodb is installed served on 27017 port
 
-## single command install
+## single command install and run
 > git clone [https://github.com/imasif/coding_test.git](https://github.com/imasif/coding_test.git) && cd coding_test && sudo chmod +x main.sh && ./main.sh
 
-## Manual install
+## Manual install and run
 
 > git clone [https://github.com/imasif/coding_test.git](https://github.com/imasif/coding_test.git) && cd coding_test
 
