@@ -34,7 +34,7 @@
     }
 ```
 
-> EDIT to: ==> [http://localhost:5000/values](http://localhost:5000/values) format is bellow:
+> EDIT (PATCH) to: ==> [http://localhost:5000/values](http://localhost:5000/values) format is bellow:
 ```
     {
         "key1": {"id": "5e05f7338199f29340af644e", "data": 12453}
